@@ -2075,6 +2075,7 @@ input, select, textarea {
 			#nav ul li a {
 				display: block;
 				padding: 0.5em 1.5em 0.5em 1.5em;
+				 padding-top: 60px;
 				color: rgba(255, 255, 255, 0.5);
 				text-decoration: none;
 				outline: 0;
